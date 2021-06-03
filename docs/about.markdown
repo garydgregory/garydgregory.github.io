@@ -8,9 +8,9 @@ Gary is a Principal Software Architect with [Rocket Software](https://www.rocket
 
 Gary co-wrote three books:
 
-- [Java Persistence with Hibernate 2nd Ed](books.md)
-- [JUnit in Action 2nd Ed](books.md)
-- [Spring Batch in Action](books.md)
+- [Java Persistence with Hibernate 2nd Ed](/books)
+- [JUnit in Action 2nd Ed](/books)
+- [Spring Batch in Action](/books)
 
 Gary is a Member of the [Apache Software Foundation](https://www.apache.org), a committer on, and serves on the Project Management Commitees of: 
 
