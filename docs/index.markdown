@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+- All [about](about) Gary Gregory
+- All about Gary Gregory's [books](books)
