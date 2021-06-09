@@ -1,7 +1,7 @@
 # garydgregory.github.io
 Gary Gregory at github.io
 
-Udating the build environment:
+Updating the build environment:
 ```
 bundle update github-pages
 ```
