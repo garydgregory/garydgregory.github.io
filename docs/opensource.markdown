@@ -14,9 +14,9 @@ Apache Commons is an Apache project focused on all aspects of reusable Java comp
 # [Apache Logging Services](https://logging.apache.org)
 ![Apache Logging Services logo](https://apache.org/logos/res/log4j/default.png)
 
-The Apache Logging Services Project creates and maintains open-source software related to the logging of application behavior and released at no charge to the public.
+The Apache Logging Services Project creates and maintains open-source software related to the logging of application behavior.
 
-The Apache Logging Services includes [Log4j](https://logging.apache.org/log4j/2.x/index.html)
+The Apache Logging Services includes [Log4j](https://logging.apache.org/log4j/2.x/index.html).
 
 # [Apache HTTP Components](https://hc.apache.org)
 ![Apache HTTP Components logo](https://apache.org/logos/res/hc/default.png)
