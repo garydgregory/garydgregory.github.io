@@ -6,4 +6,5 @@ layout: home
 ---
 
 - All [about](about) Gary Gregory
-- All about Gary Gregory's [books](books)
+- All about Gary's [books](books)
+- All about Gary in the [open-source](opensource) world.
