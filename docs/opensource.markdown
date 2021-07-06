@@ -16,7 +16,7 @@ The [Apache Commons](https://commons.apache.org) project focused on all aspects 
 
 The [Apache Logging Services](https://logging.apache.org) project creates and maintains open-source software related to the logging of application behavior.
 
-Apache Logging Services includes [Log4j](https://logging.apache.org/log4j/2.x/index.html).
+Apache Logging Services includes [Log4j](https://logging.apache.org/log4j/2.x/index.html), part of the [Community that powers NASA's Ingenuity Helicopter!](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 
 # [Apache HTTP Components](https://hc.apache.org)
 ![Apache HTTP Components logo](https://apache.org/logos/res/hc/default.png)
